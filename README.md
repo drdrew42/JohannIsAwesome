@@ -1,3 +1,3 @@
 # JohannIsAwesome
 
-Oops, it's opposite day.
+Oops, it's **not** opposite day.
